@@ -9,3 +9,5 @@ right -> Mover Nave hacia la Derecha
 espacio -> Disparar
 
 p -> Pausar el Juego / Reanudar el Juego
+
+esc -> Salir del Juego
