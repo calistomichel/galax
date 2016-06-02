@@ -11,3 +11,6 @@ espacio -> Disparar
 p -> Pausar el Juego / Reanudar el Juego
 
 esc -> Salir del Juego
+
+# Ejecutable
+Para crear el ejecutable del juego, abrir el archivo Galax.blend con blender, seleccionar File -> Export -> Save As Game Engine Runtime y escoger el directorio donde alojarlo.
