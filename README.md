@@ -3,15 +3,15 @@ Proyecto sencillo de naves espaciales desarrollado en Blender Game Engine, donde
 
 # Controles Del Juego
 ```
-left =>     Mover Nave hacia la Izquierda
+**left**        Mover Nave hacia la Izquierda
 
-right => Mover Nave hacia la Derecha
+**right**       Mover Nave hacia la Derecha
 
-espacio => Disparar
+**espacio**     Disparar
 
-p => Pausar el Juego / Reanudar el Juego
+**p**           Pausar el Juego / Reanudar el Juego
 
-esc => Salir del Juego
+**esc**         Salir del Juego
 ```
 # Ejecutable
 Para crear el ejecutable del juego, abrir el archivo Galax.blend con blender, seleccionar File -> Export -> Save As Game Engine Runtime y escoger el directorio donde alojarlo.
