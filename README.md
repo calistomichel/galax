@@ -3,7 +3,7 @@ Proyecto sencillo de naves espaciales desarrollado en Blender Game Engine, donde
 
 # Controles Del Juego
 ```
-left => Mover Nave hacia la Izquierda
+left =>     Mover Nave hacia la Izquierda
 
 right => Mover Nave hacia la Derecha
 
