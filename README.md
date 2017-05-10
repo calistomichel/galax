@@ -1,5 +1,5 @@
 # Galax
-Proyecto sencillo de naves espaciales desarrollado en Blender Game Engine, donde la principal mision, es destruir la mayor cantidad de naves espaciales enemigas, antes de que el tiempo de 30 segundos llegue a 0 y así conseguir la mayor puntuación posible. Cada nave enemiga destruída sumará 100 puntos al total de la puntuación del jugador.
+Proyecto Mini-Game de naves espaciales desarrollado en Blender con la ayuda del componente Blender Game Engine, donde la principal mision, es destruir la mayor cantidad de naves espaciales enemigas, antes de que el tiempo de 30 segundos llegue a 0 y así conseguir la mayor puntuación posible. Cada nave enemiga destruída sumará 100 puntos al total de la puntuación del jugador.
 
 # Controles Del Juego
 ```
