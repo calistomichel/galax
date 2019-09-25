@@ -4,8 +4,12 @@ Proyecto Mini-Game de naves espaciales desarrollado en Blender con la ayuda del 
 # ¿Como Jugar?
 Para jugar simplemente ejecutar el archivo ```Galax``` que se encuentra dentro del directorio descargado.
 
-# Compatibilidad
-Juego desarrollado y testeado en ```Ubuntu 14.04```.
+# Requisitos
+```
+Ubuntu 16.04
+Python 3.5
+Blender 2.76
+```
 
 # Controles Del Juego
 ```
@@ -21,3 +25,7 @@ esc         Salir del Juego
 ```
 # Ejecutable
 Para crear un nuevo ejecutable del juego, abrir el archivo Galax.blend con blender, seleccionar ```File - Export - Save As Game Engine Runtime``` y escoger el directorio donde alojarlo.
+
+### Imágenes de demostración
+
+<img src="demo/demo.png">
