@@ -1,39 +1,12 @@
 # Galax
 
-### Descripción
+Mini-Game de naves espaciales, donde la principal misión, es destruir la mayor cantidad de naves espaciales enemigas y así conseguir la mayor puntuación posible, todo esto antes de que el tiempo de 30 segundos llegue a 0. Cada nave enemiga destruída sumará 100 puntos al total de la puntuación del jugador.
 
-Proyecto Mini-Game de naves espaciales desarrollado en Blender con la ayuda del componente Blender Game Engine, donde la principal mision, es destruir la mayor cantidad de naves espaciales enemigas, antes de que el tiempo de 30 segundos llegue a 0 y así conseguir la mayor puntuación posible. Cada nave enemiga destruída sumará 100 puntos al total de la puntuación del jugador.
+![Blender](https://img.shields.io/badge/Blender-v2.76-blue)
+![Python](https://img.shields.io/badge/Python-v3.5-blue)
 
-### ¿Como Jugar?
+## Más Información
 
-Para jugar simplemente ejecutar el archivo ```Galax``` que se encuentra dentro del directorio descargado.
+Obtén más información del repositorio en los siguientes enlaces.
 
-### Requisitos
-
-``` bash
-Ubuntu 16.04
-Python 3.5
-Blender 2.76
-```
-
-### Controles Del Juego
-
-``` bash
-left        Mover Nave hacia la Izquierda
-
-right       Mover Nave hacia la Derecha
-
-espacio     Disparar
-
-p           Pausar el Juego / Reanudar el Juego
-
-esc         Salir del Juego
-```
-
-### Ejecutable
-
-Para crear un nuevo ejecutable del juego, abrir el archivo Galax.blend con blender, seleccionar ```File - Export - Save As Game Engine Runtime``` y escoger el directorio donde alojarlo.
-
-### Imágenes de demostración
-
-<img src="demo/demo.png">
+- [Controles](https://gist.githubusercontent.com/laloinsane/3210b420080d09d33f5fdd04e6564933/raw/295b248d3dc3f4f88f935cd89fd22a1b6289205c/galax-controles.md)
