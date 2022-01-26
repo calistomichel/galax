@@ -9,4 +9,4 @@ Mini-Game de naves espaciales, donde la principal misión, es destruir la mayor 
 
 Obtén más información del repositorio en los siguientes enlaces.
 
-- [Controles](https://gist.github.com/laloinsane/3210b420080d09d33f5fdd04e6564933)
+- [Controles](https://gist.github.com/calistomichel/3210b420080d09d33f5fdd04e6564933)
